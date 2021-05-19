@@ -1,0 +1,16 @@
+.welcome-card img {
+    max-height: 35vh;
+    overflow: hidden;
+  }
+
+  // Les modifications commencent ici : On applique le style à la page Home ici
+  .ion-color-ducknote {
+    background-color : var(--ion-color-ducknote);
+    --ion-color-base-rgb: var(--ion-color-ducknote-rgb);
+    color: var(--ion-color-ducknote-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-ducknote-contrast-rgb);
+    --ion-color-shade: var(--ion-color-ducknote-shade);
+    --ion-color-tint: var(--ion-color-ducknote-tint);
+  }
+
+  
